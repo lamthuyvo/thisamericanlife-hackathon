@@ -481,7 +481,7 @@ td{
 }
 
 .intro-logos img{
-    width: 12%;
+    width: 12% !important;
     margin-right:10px;
     margin-bottom: 50px;
 }
