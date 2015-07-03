@@ -320,6 +320,10 @@ a:focus {
     background-color: #e24329;
 }
 
+.mobile{
+    display: none;
+}
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
@@ -340,6 +344,14 @@ ul.banner-social-buttons {
 
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
+    }
+
+    .desktop{
+        display: none;
+    }
+    
+    .mobile{
+        display: block;
     }
 }
 
